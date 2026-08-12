@@ -1,0 +1,801 @@
+debtor_id,recommended_channel,confidence,needs_human_review,action
+D100120,email,0.929,False,Auto-contact via email
+D100609,sms,0.789,False,Auto-contact via sms
+D102999,sms,0.526,True,Flag for human review
+D103734,sms,0.773,False,Auto-contact via sms
+D100705,email,0.723,False,Auto-contact via email
+D101229,email,0.513,True,Flag for human review
+D103406,sms,0.773,False,Auto-contact via sms
+D101632,sms,0.655,False,Auto-contact via sms
+D101082,sms,0.773,False,Auto-contact via sms
+D102666,email,0.697,False,Auto-contact via email
+D100331,sms,0.773,False,Auto-contact via sms
+D100934,sms,0.789,False,Auto-contact via sms
+D100457,email,0.513,True,Flag for human review
+D103385,email,0.538,True,Flag for human review
+D103686,sms,0.655,False,Auto-contact via sms
+D102364,email,0.611,False,Auto-contact via email
+D103708,email,0.513,True,Flag for human review
+D102306,email,0.513,True,Flag for human review
+D101347,email,0.8,False,Auto-contact via email
+D103444,email,0.723,False,Auto-contact via email
+D103481,email,0.611,False,Auto-contact via email
+D101453,email,0.723,False,Auto-contact via email
+D101507,email,0.697,False,Auto-contact via email
+D101597,email,0.723,False,Auto-contact via email
+D101477,email,0.723,False,Auto-contact via email
+D101109,email,0.611,False,Auto-contact via email
+D101922,email,0.513,True,Flag for human review
+D101074,email,0.723,False,Auto-contact via email
+D101156,sms,0.773,False,Auto-contact via sms
+D103357,email,0.723,False,Auto-contact via email
+D102678,sms,0.526,True,Flag for human review
+D102286,email,0.886,False,Auto-contact via email
+D100877,email,0.723,False,Auto-contact via email
+D102374,email,0.513,True,Flag for human review
+D100492,email,0.595,True,Flag for human review
+D103078,sms,0.526,True,Flag for human review
+D101143,sms,0.773,False,Auto-contact via sms
+D103346,email,0.595,True,Flag for human review
+D101779,email,0.513,True,Flag for human review
+D102350,sms,0.435,True,Flag for human review
+D102476,sms,0.526,True,Flag for human review
+D103733,email,0.723,False,Auto-contact via email
+D103394,email,0.723,False,Auto-contact via email
+D102596,sms,0.526,True,Flag for human review
+D102811,email,0.611,False,Auto-contact via email
+D103179,email,0.8,False,Auto-contact via email
+D103271,email,0.723,False,Auto-contact via email
+D103813,email,0.513,True,Flag for human review
+D102989,email,0.513,True,Flag for human review
+D103005,sms,0.773,False,Auto-contact via sms
+D102711,sms,0.773,False,Auto-contact via sms
+D100674,sms,0.655,False,Auto-contact via sms
+D103258,email,0.513,True,Flag for human review
+D102722,email,0.513,True,Flag for human review
+D102996,email,0.723,False,Auto-contact via email
+D101033,email,0.723,False,Auto-contact via email
+D101038,email,0.595,True,Flag for human review
+D101018,sms,0.526,True,Flag for human review
+D100142,post,0.706,False,Auto-contact via post
+D100632,email,0.513,True,Flag for human review
+D103974,email,0.513,True,Flag for human review
+D103907,email,0.723,False,Auto-contact via email
+D102825,email,0.723,False,Auto-contact via email
+D100675,email,0.723,False,Auto-contact via email
+D100565,email,0.611,False,Auto-contact via email
+D102000,email,0.513,True,Flag for human review
+D102326,email,0.8,False,Auto-contact via email
+D100422,email,0.513,True,Flag for human review
+D100280,sms,0.47,True,Flag for human review
+D100287,email,0.8,False,Auto-contact via email
+D100464,email,0.723,False,Auto-contact via email
+D103848,email,0.513,True,Flag for human review
+D102294,sms,0.655,False,Auto-contact via sms
+D101702,sms,0.655,False,Auto-contact via sms
+D103400,sms,0.667,False,Auto-contact via sms
+D103037,email,0.723,False,Auto-contact via email
+D101600,email,0.723,False,Auto-contact via email
+D103850,email,1.0,False,Auto-contact via email
+D101553,email,0.723,False,Auto-contact via email
+D102912,email,0.611,False,Auto-contact via email
+D101595,email,0.723,False,Auto-contact via email
+D102363,email,0.723,False,Auto-contact via email
+D103980,sms,0.655,False,Auto-contact via sms
+D101281,email,0.8,False,Auto-contact via email
+D103469,email,0.513,True,Flag for human review
+D103427,email,0.611,False,Auto-contact via email
+D101380,email,0.513,True,Flag for human review
+D100656,email,0.611,False,Auto-contact via email
+D101473,email,0.905,False,Auto-contact via email
+D100599,email,0.8,False,Auto-contact via email
+D103951,email,0.595,True,Flag for human review
+D100922,email,0.697,False,Auto-contact via email
+D102137,sms,0.526,True,Flag for human review
+D103263,email,0.513,True,Flag for human review
+D102675,email,0.611,False,Auto-contact via email
+D102551,email,0.513,True,Flag for human review
+D102676,email,0.513,True,Flag for human review
+D100517,email,0.723,False,Auto-contact via email
+D100367,email,0.948,False,Auto-contact via email
+D100759,sms,0.526,True,Flag for human review
+D102555,sms,0.526,True,Flag for human review
+D101727,email,0.8,False,Auto-contact via email
+D102584,sms,0.526,True,Flag for human review
+D103553,email,0.838,False,Auto-contact via email
+D102425,email,0.723,False,Auto-contact via email
+D103945,sms,0.773,False,Auto-contact via sms
+D102506,sms,0.526,True,Flag for human review
+D103837,sms,0.789,False,Auto-contact via sms
+D103514,post,0.564,True,Flag for human review
+D101214,email,0.932,False,Auto-contact via email
+D101397,post,1.0,False,Auto-contact via post
+D101494,email,0.723,False,Auto-contact via email
+D102787,email,0.697,False,Auto-contact via email
+D101312,sms,0.655,False,Auto-contact via sms
+D102197,sms,0.655,False,Auto-contact via sms
+D100251,email,0.513,True,Flag for human review
+D100250,email,0.513,True,Flag for human review
+D102723,email,0.723,False,Auto-contact via email
+D103973,sms,0.526,True,Flag for human review
+D103932,email,0.611,False,Auto-contact via email
+D102900,sms,0.526,True,Flag for human review
+D102950,sms,0.655,False,Auto-contact via sms
+D100022,post,0.504,True,Flag for human review
+D101538,email,0.8,False,Auto-contact via email
+D102740,email,0.513,True,Flag for human review
+D100955,sms,0.655,False,Auto-contact via sms
+D103503,email,0.611,False,Auto-contact via email
+D101172,email,0.723,False,Auto-contact via email
+D100789,email,0.723,False,Auto-contact via email
+D103390,email,0.595,True,Flag for human review
+D101695,email,0.513,True,Flag for human review
+D101193,sms,0.655,False,Auto-contact via sms
+D100477,email,0.8,False,Auto-contact via email
+D103807,sms,0.526,True,Flag for human review
+D103851,sms,0.789,False,Auto-contact via sms
+D102110,email,0.513,True,Flag for human review
+D101015,sms,0.789,False,Auto-contact via sms
+D102143,email,0.8,False,Auto-contact via email
+D103533,email,0.8,False,Auto-contact via email
+D103148,sms,0.655,False,Auto-contact via sms
+D102133,sms,0.526,True,Flag for human review
+D100339,post,0.706,False,Auto-contact via post
+D100230,sms,0.773,False,Auto-contact via sms
+D100134,sms,0.655,False,Auto-contact via sms
+D103792,sms,0.789,False,Auto-contact via sms
+D102235,email,0.611,False,Auto-contact via email
+D103791,sms,0.655,False,Auto-contact via sms
+D101359,sms,0.526,True,Flag for human review
+D100076,email,0.723,False,Auto-contact via email
+D101311,post,1.0,False,Auto-contact via post
+D102876,sms,0.526,True,Flag for human review
+D101396,sms,0.655,False,Auto-contact via sms
+D102385,email,0.723,False,Auto-contact via email
+D103101,email,0.723,False,Auto-contact via email
+D102466,email,0.723,False,Auto-contact via email
+D100831,email,0.723,False,Auto-contact via email
+D100801,email,0.513,True,Flag for human review
+D101776,email,0.8,False,Auto-contact via email
+D102816,sms,0.526,True,Flag for human review
+D100515,email,0.89,False,Auto-contact via email
+D103823,sms,0.777,False,Auto-contact via sms
+D100701,email,1.0,False,Auto-contact via email
+D103981,post,0.564,True,Flag for human review
+D101350,email,0.8,False,Auto-contact via email
+D102905,email,0.723,False,Auto-contact via email
+D102895,post,0.406,True,Flag for human review
+D102029,sms,0.526,True,Flag for human review
+D102028,email,0.611,False,Auto-contact via email
+D103010,email,0.611,False,Auto-contact via email
+D100907,email,0.513,True,Flag for human review
+D100198,email,0.723,False,Auto-contact via email
+D103026,email,0.611,False,Auto-contact via email
+D101017,sms,0.773,False,Auto-contact via sms
+D102075,email,0.513,True,Flag for human review
+D100256,email,0.723,False,Auto-contact via email
+D101726,sms,0.655,False,Auto-contact via sms
+D102552,sms,0.655,False,Auto-contact via sms
+D103046,email,0.723,False,Auto-contact via email
+D100744,email,0.513,True,Flag for human review
+D100368,sms,0.526,True,Flag for human review
+D100398,sms,0.773,False,Auto-contact via sms
+D101189,sms,0.655,False,Auto-contact via sms
+D103175,sms,0.789,False,Auto-contact via sms
+D103193,sms,0.773,False,Auto-contact via sms
+D103079,sms,0.789,False,Auto-contact via sms
+D103517,email,0.723,False,Auto-contact via email
+D102518,sms,0.526,True,Flag for human review
+D100186,email,0.723,False,Auto-contact via email
+D101826,email,0.723,False,Auto-contact via email
+D101108,email,0.513,True,Flag for human review
+D101567,sms,0.526,True,Flag for human review
+D101564,email,0.611,False,Auto-contact via email
+D103576,email,0.697,False,Auto-contact via email
+D102325,sms,0.789,False,Auto-contact via sms
+D102949,email,0.611,False,Auto-contact via email
+D100289,sms,0.526,True,Flag for human review
+D101556,email,0.611,False,Auto-contact via email
+D103646,sms,0.789,False,Auto-contact via sms
+D103548,sms,0.655,False,Auto-contact via sms
+D102780,sms,0.526,True,Flag for human review
+D100644,email,0.723,False,Auto-contact via email
+D102187,email,0.513,True,Flag for human review
+D101499,sms,0.655,False,Auto-contact via sms
+D101322,sms,0.526,True,Flag for human review
+D101481,sms,0.773,False,Auto-contact via sms
+D102786,email,0.723,False,Auto-contact via email
+D100247,sms,0.773,False,Auto-contact via sms
+D102919,email,0.8,False,Auto-contact via email
+D101479,email,0.723,False,Auto-contact via email
+D102835,sms,0.773,False,Auto-contact via sms
+D101362,email,0.513,True,Flag for human review
+D101366,email,0.723,False,Auto-contact via email
+D101393,sms,0.526,True,Flag for human review
+D101501,email,0.723,False,Auto-contact via email
+D100969,email,0.595,True,Flag for human review
+D102441,sms,0.789,False,Auto-contact via sms
+D101305,sms,0.655,False,Auto-contact via sms
+D102975,sms,0.526,True,Flag for human review
+D100618,sms,0.789,False,Auto-contact via sms
+D102772,email,0.723,False,Auto-contact via email
+D103993,sms,0.773,False,Auto-contact via sms
+D100845,email,0.611,False,Auto-contact via email
+D102542,sms,0.526,True,Flag for human review
+D100218,email,0.513,True,Flag for human review
+D100491,email,0.815,False,Auto-contact via email
+D102438,sms,0.773,False,Auto-contact via sms
+D101157,email,0.513,True,Flag for human review
+D101677,email,0.611,False,Auto-contact via email
+D101781,email,1.0,False,Auto-contact via email
+D100790,email,0.697,False,Auto-contact via email
+D101798,sms,0.526,True,Flag for human review
+D101879,email,0.88,False,Auto-contact via email
+D102649,sms,0.789,False,Auto-contact via sms
+D102688,email,1.0,False,Auto-contact via email
+D101206,email,0.538,True,Flag for human review
+D101678,email,1.0,False,Auto-contact via email
+D102030,email,0.513,True,Flag for human review
+D103165,email,0.723,False,Auto-contact via email
+D102044,email,0.595,True,Flag for human review
+D102221,email,0.723,False,Auto-contact via email
+D103028,email,0.723,False,Auto-contact via email
+D103032,email,0.723,False,Auto-contact via email
+D102236,email,0.405,True,Flag for human review
+D103711,email,0.723,False,Auto-contact via email
+D103721,email,0.8,False,Auto-contact via email
+D101934,email,0.513,True,Flag for human review
+D100568,post,0.564,True,Flag for human review
+D102820,sms,0.667,False,Auto-contact via sms
+D100299,email,0.611,False,Auto-contact via email
+D102707,email,0.723,False,Auto-contact via email
+D100092,sms,0.655,False,Auto-contact via sms
+D101661,sms,0.655,False,Auto-contact via sms
+D100874,email,0.723,False,Auto-contact via email
+D103783,email,0.723,False,Auto-contact via email
+D101744,sms,0.773,False,Auto-contact via sms
+D101167,sms,0.526,True,Flag for human review
+D100232,post,0.706,False,Auto-contact via post
+D101076,email,0.611,False,Auto-contact via email
+D102392,email,0.595,True,Flag for human review
+D101253,sms,0.773,False,Auto-contact via sms
+D100558,email,0.8,False,Auto-contact via email
+D102166,email,0.513,True,Flag for human review
+D102554,email,0.847,False,Auto-contact via email
+D103668,sms,0.773,False,Auto-contact via sms
+D101401,post,0.377,True,Flag for human review
+D102434,email,0.723,False,Auto-contact via email
+D102436,email,0.723,False,Auto-contact via email
+D102131,email,0.513,True,Flag for human review
+D103964,sms,0.655,False,Auto-contact via sms
+D100025,email,0.513,True,Flag for human review
+D100688,email,0.697,False,Auto-contact via email
+D103961,sms,0.773,False,Auto-contact via sms
+D100298,email,0.513,True,Flag for human review
+D103207,sms,0.526,True,Flag for human review
+D101219,email,0.513,True,Flag for human review
+D102096,sms,0.773,False,Auto-contact via sms
+D103847,email,0.723,False,Auto-contact via email
+D101040,sms,0.655,False,Auto-contact via sms
+D101947,sms,0.526,True,Flag for human review
+D101942,email,0.538,True,Flag for human review
+D101981,email,0.723,False,Auto-contact via email
+D102582,sms,0.47,True,Flag for human review
+D102611,email,0.611,False,Auto-contact via email
+D101209,email,0.723,False,Auto-contact via email
+D103755,email,0.723,False,Auto-contact via email
+D103295,email,0.611,False,Auto-contact via email
+D103280,email,0.723,False,Auto-contact via email
+D103559,email,0.513,True,Flag for human review
+D101145,email,0.723,False,Auto-contact via email
+D101090,email,0.697,False,Auto-contact via email
+D102178,sms,0.789,False,Auto-contact via sms
+D102937,email,0.5,True,Flag for human review
+D101562,email,0.8,False,Auto-contact via email
+D101587,email,0.513,True,Flag for human review
+D100774,sms,0.789,False,Auto-contact via sms
+D101103,email,0.611,False,Auto-contact via email
+D101961,email,0.513,True,Flag for human review
+D100511,post,0.706,False,Auto-contact via post
+D102899,email,0.881,False,Auto-contact via email
+D102319,post,0.529,True,Flag for human review
+D100166,email,0.513,True,Flag for human review
+D103666,sms,0.789,False,Auto-contact via sms
+D100529,sms,0.773,False,Auto-contact via sms
+D100535,email,0.8,False,Auto-contact via email
+D103349,email,0.697,False,Auto-contact via email
+D101809,sms,0.789,False,Auto-contact via sms
+D101788,email,0.611,False,Auto-contact via email
+D101774,email,0.697,False,Auto-contact via email
+D100508,sms,0.773,False,Auto-contact via sms
+D100181,email,0.513,True,Flag for human review
+D103364,email,0.513,True,Flag for human review
+D101679,email,0.513,True,Flag for human review
+D103199,post,0.515,True,Flag for human review
+D103379,email,0.723,False,Auto-contact via email
+D101195,email,0.723,False,Auto-contact via email
+D101990,email,0.513,True,Flag for human review
+D102095,email,0.513,True,Flag for human review
+D100873,sms,0.526,True,Flag for human review
+D103714,email,0.8,False,Auto-contact via email
+D100869,email,0.723,False,Auto-contact via email
+D103722,email,0.538,True,Flag for human review
+D100407,email,0.611,False,Auto-contact via email
+D101025,email,0.723,False,Auto-contact via email
+D102062,email,0.611,False,Auto-contact via email
+D102224,email,0.513,True,Flag for human review
+D103154,email,0.513,True,Flag for human review
+D102265,sms,0.773,False,Auto-contact via sms
+D102148,email,0.723,False,Auto-contact via email
+D102953,email,0.723,False,Auto-contact via email
+D102762,sms,0.8,False,Auto-contact via sms
+D100578,email,0.611,False,Auto-contact via email
+D103984,email,0.8,False,Auto-contact via email
+D103979,email,0.723,False,Auto-contact via email
+D103935,email,0.611,False,Auto-contact via email
+D101256,email,0.835,False,Auto-contact via email
+D101252,sms,0.655,False,Auto-contact via sms
+D103863,sms,0.773,False,Auto-contact via sms
+D101184,email,0.513,True,Flag for human review
+D103827,email,0.723,False,Auto-contact via email
+D101792,sms,0.773,False,Auto-contact via sms
+D100394,email,0.513,True,Flag for human review
+D100267,sms,0.773,False,Auto-contact via sms
+D100414,email,0.611,False,Auto-contact via email
+D100362,email,0.513,True,Flag for human review
+D100242,email,0.723,False,Auto-contact via email
+D103083,sms,0.655,False,Auto-contact via sms
+D101065,email,0.8,False,Auto-contact via email
+D101877,sms,0.789,False,Auto-contact via sms
+D102980,email,0.697,False,Auto-contact via email
+D100561,email,0.723,False,Auto-contact via email
+D102848,email,0.812,False,Auto-contact via email
+D102791,email,0.513,True,Flag for human review
+D100471,email,0.611,False,Auto-contact via email
+D103147,email,0.723,False,Auto-contact via email
+D103753,email,0.611,False,Auto-contact via email
+D100693,email,0.513,True,Flag for human review
+D102068,email,0.611,False,Auto-contact via email
+D102903,sms,0.526,True,Flag for human review
+D103617,email,0.723,False,Auto-contact via email
+D102854,email,0.8,False,Auto-contact via email
+D100365,email,0.611,False,Auto-contact via email
+D102342,email,1.0,False,Auto-contact via email
+D102420,email,0.405,True,Flag for human review
+D102389,sms,0.526,True,Flag for human review
+D100835,email,0.611,False,Auto-contact via email
+D102400,email,0.723,False,Auto-contact via email
+D102378,email,0.513,True,Flag for human review
+D100380,email,0.723,False,Auto-contact via email
+D103505,email,0.723,False,Auto-contact via email
+D103516,email,0.723,False,Auto-contact via email
+D103347,email,0.754,False,Auto-contact via email
+D101337,sms,0.789,False,Auto-contact via sms
+D103884,email,0.595,True,Flag for human review
+D101332,email,0.513,True,Flag for human review
+D101328,email,0.8,False,Auto-contact via email
+D101319,email,0.723,False,Auto-contact via email
+D102111,email,0.723,False,Auto-contact via email
+D102367,email,0.611,False,Auto-contact via email
+D102720,email,0.852,False,Auto-contact via email
+D103633,email,0.611,False,Auto-contact via email
+D100756,sms,0.526,True,Flag for human review
+D102272,email,0.723,False,Auto-contact via email
+D102223,email,0.595,True,Flag for human review
+D100958,email,0.723,False,Auto-contact via email
+D103747,email,0.8,False,Auto-contact via email
+D100458,email,0.513,True,Flag for human review
+D101174,email,0.513,True,Flag for human review
+D103918,email,0.513,True,Flag for human review
+D101222,email,0.723,False,Auto-contact via email
+D100430,post,0.706,False,Auto-contact via post
+D100095,post,0.564,True,Flag for human review
+D103928,email,0.513,True,Flag for human review
+D102057,email,0.538,True,Flag for human review
+D100472,sms,0.655,False,Auto-contact via sms
+D103534,email,0.611,False,Auto-contact via email
+D103173,sms,0.526,True,Flag for human review
+D103596,email,0.513,True,Flag for human review
+D102946,email,0.611,False,Auto-contact via email
+D101232,sms,0.789,False,Auto-contact via sms
+D103822,email,0.723,False,Auto-contact via email
+D101890,email,0.848,False,Auto-contact via email
+D101897,email,0.723,False,Auto-contact via email
+D101830,email,0.723,False,Auto-contact via email
+D101862,email,0.611,False,Auto-contact via email
+D100635,sms,0.655,False,Auto-contact via sms
+D102979,email,0.8,False,Auto-contact via email
+D101866,email,0.513,True,Flag for human review
+D101967,email,0.513,True,Flag for human review
+D100699,sms,0.526,True,Flag for human review
+D102159,post,0.377,True,Flag for human review
+D102435,post,0.706,False,Auto-contact via post
+D101461,email,0.513,True,Flag for human review
+D103507,email,0.513,True,Flag for human review
+D101529,email,0.723,False,Auto-contact via email
+D102395,post,0.706,False,Auto-contact via post
+D103434,sms,0.773,False,Auto-contact via sms
+D103739,email,0.723,False,Auto-contact via email
+D102540,email,0.723,False,Auto-contact via email
+D102704,email,0.723,False,Auto-contact via email
+D102739,email,0.723,False,Auto-contact via email
+D103644,email,0.595,True,Flag for human review
+D103645,email,0.513,True,Flag for human review
+D101467,email,0.595,True,Flag for human review
+D100070,email,0.513,True,Flag for human review
+D102875,email,0.611,False,Auto-contact via email
+D102845,email,0.723,False,Auto-contact via email
+D102814,sms,0.655,False,Auto-contact via sms
+D102851,email,0.513,True,Flag for human review
+D100625,email,0.8,False,Auto-contact via email
+D100707,email,0.595,True,Flag for human review
+D102770,email,0.611,False,Auto-contact via email
+D102539,sms,0.773,False,Auto-contact via sms
+D102743,email,0.723,False,Auto-contact via email
+D103335,email,0.723,False,Auto-contact via email
+D102382,email,0.8,False,Auto-contact via email
+D101438,post,0.504,True,Flag for human review
+D102375,sms,0.47,True,Flag for human review
+D101370,sms,0.526,True,Flag for human review
+D101344,email,0.611,False,Auto-contact via email
+D102383,sms,0.773,False,Auto-contact via sms
+D101747,email,0.723,False,Auto-contact via email
+D103234,email,0.723,False,Auto-contact via email
+D102864,email,0.513,True,Flag for human review
+D100461,sms,0.789,False,Auto-contact via sms
+D100226,sms,0.655,False,Auto-contact via sms
+D102785,email,0.513,True,Flag for human review
+D101855,post,0.706,False,Auto-contact via post
+D103818,email,0.9,False,Auto-contact via email
+D101610,sms,0.655,False,Auto-contact via sms
+D103231,email,0.513,True,Flag for human review
+D101596,email,0.538,True,Flag for human review
+D101578,sms,0.526,True,Flag for human review
+D103108,email,0.611,False,Auto-contact via email
+D101136,email,0.75,False,Auto-contact via email
+D101748,email,0.8,False,Auto-contact via email
+D100319,post,0.706,False,Auto-contact via post
+D101036,sms,0.773,False,Auto-contact via sms
+D100576,email,0.723,False,Auto-contact via email
+D101335,email,0.513,True,Flag for human review
+D101984,post,0.564,True,Flag for human review
+D103340,email,0.513,True,Flag for human review
+D101023,email,0.8,False,Auto-contact via email
+D103472,email,0.611,False,Auto-contact via email
+D102906,post,0.706,False,Auto-contact via post
+D103657,sms,1.0,False,Auto-contact via sms
+D103662,email,0.723,False,Auto-contact via email
+D103712,email,0.595,True,Flag for human review
+D101525,email,0.595,True,Flag for human review
+D100372,email,0.611,False,Auto-contact via email
+D100291,email,0.513,True,Flag for human review
+D102370,email,0.513,True,Flag for human review
+D100304,email,0.513,True,Flag for human review
+D100876,email,0.595,True,Flag for human review
+D101066,email,0.697,False,Auto-contact via email
+D101772,email,0.965,False,Auto-contact via email
+D102955,email,0.513,True,Flag for human review
+D103031,sms,0.526,True,Flag for human review
+D102789,email,0.723,False,Auto-contact via email
+D100582,email,0.5,True,Flag for human review
+D102815,email,0.611,False,Auto-contact via email
+D102933,email,0.839,False,Auto-contact via email
+D103144,email,0.595,True,Flag for human review
+D103192,sms,0.655,False,Auto-contact via sms
+D100145,email,0.723,False,Auto-contact via email
+D102240,sms,0.773,False,Auto-contact via sms
+D100985,email,0.513,True,Flag for human review
+D103728,post,0.515,True,Flag for human review
+D102515,email,0.611,False,Auto-contact via email
+D101938,email,0.513,True,Flag for human review
+D101266,email,0.513,True,Flag for human review
+D101642,email,0.513,True,Flag for human review
+D103265,email,0.611,False,Auto-contact via email
+D101137,email,0.697,False,Auto-contact via email
+D101820,post,1.0,False,Auto-contact via post
+D103125,sms,0.773,False,Auto-contact via sms
+D101125,email,0.595,True,Flag for human review
+D103923,post,1.0,False,Auto-contact via post
+D103313,email,0.723,False,Auto-contact via email
+D101681,email,0.723,False,Auto-contact via email
+D103220,email,0.861,False,Auto-contact via email
+D101231,email,0.595,True,Flag for human review
+D101822,email,0.741,False,Auto-contact via email
+D103248,email,0.723,False,Auto-contact via email
+D103962,email,0.513,True,Flag for human review
+D100358,email,0.99,False,Auto-contact via email
+D103525,sms,0.773,False,Auto-contact via sms
+D100277,email,0.611,False,Auto-contact via email
+D103842,email,0.723,False,Auto-contact via email
+D101346,email,0.723,False,Auto-contact via email
+D103326,email,0.513,True,Flag for human review
+D103236,post,0.969,False,Auto-contact via post
+D100441,email,0.513,True,Flag for human review
+D101743,sms,0.526,True,Flag for human review
+D102921,sms,0.794,False,Auto-contact via sms
+D100227,email,0.723,False,Auto-contact via email
+D102959,email,0.513,True,Flag for human review
+D101081,post,0.706,False,Auto-contact via post
+D103197,sms,0.655,False,Auto-contact via sms
+D103176,email,0.513,True,Flag for human review
+D103521,email,0.513,True,Flag for human review
+D103402,email,0.723,False,Auto-contact via email
+D101457,sms,0.789,False,Auto-contact via sms
+D100066,email,0.8,False,Auto-contact via email
+D103393,email,0.723,False,Auto-contact via email
+D102024,email,0.723,False,Auto-contact via email
+D102092,sms,0.526,True,Flag for human review
+D100771,email,0.611,False,Auto-contact via email
+D102257,email,0.513,True,Flag for human review
+D102706,email,0.723,False,Auto-contact via email
+D102636,email,0.915,False,Auto-contact via email
+D101436,sms,0.526,True,Flag for human review
+D102337,post,0.706,False,Auto-contact via post
+D103094,email,0.723,False,Auto-contact via email
+D100585,email,0.723,False,Auto-contact via email
+D101887,email,0.723,False,Auto-contact via email
+D100634,sms,0.655,False,Auto-contact via sms
+D103183,email,0.8,False,Auto-contact via email
+D100752,email,0.611,False,Auto-contact via email
+D100994,post,0.564,True,Flag for human review
+D103752,email,0.723,False,Auto-contact via email
+D103411,sms,0.773,False,Auto-contact via sms
+D102496,email,0.697,False,Auto-contact via email
+D102510,email,0.513,True,Flag for human review
+D102451,email,0.723,False,Auto-contact via email
+D103310,post,0.529,True,Flag for human review
+D101550,email,0.5,True,Flag for human review
+D101569,email,0.513,True,Flag for human review
+D103242,email,0.595,True,Flag for human review
+D103178,sms,0.526,True,Flag for human review
+D100390,email,0.513,True,Flag for human review
+D101689,email,0.729,False,Auto-contact via email
+D103111,email,0.723,False,Auto-contact via email
+D100495,email,0.611,False,Auto-contact via email
+D102945,email,0.723,False,Auto-contact via email
+D103096,email,0.723,False,Auto-contact via email
+D103025,email,0.513,True,Flag for human review
+D102116,sms,0.526,True,Flag for human review
+D102477,sms,0.789,False,Auto-contact via sms
+D102245,email,0.723,False,Auto-contact via email
+D100999,email,0.723,False,Auto-contact via email
+D102106,email,0.723,False,Auto-contact via email
+D102150,email,0.75,False,Auto-contact via email
+D102082,email,1.0,False,Auto-contact via email
+D100730,email,0.611,False,Auto-contact via email
+D102637,email,0.513,True,Flag for human review
+D102620,email,0.611,False,Auto-contact via email
+D102085,email,0.723,False,Auto-contact via email
+D101047,email,0.513,True,Flag for human review
+D100792,email,0.723,False,Auto-contact via email
+D101448,email,0.723,False,Auto-contact via email
+D102459,email,0.851,False,Auto-contact via email
+D100180,email,0.723,False,Auto-contact via email
+D102453,post,0.564,True,Flag for human review
+D102351,email,0.8,False,Auto-contact via email
+D102347,email,0.611,False,Auto-contact via email
+D100846,sms,0.8,False,Auto-contact via sms
+D102362,email,0.513,True,Flag for human review
+D102456,email,0.723,False,Auto-contact via email
+D103383,email,0.8,False,Auto-contact via email
+D103366,email,0.75,False,Auto-contact via email
+D100295,email,0.513,True,Flag for human review
+D103397,sms,0.526,True,Flag for human review
+D103423,sms,0.435,True,Flag for human review
+D103447,email,0.8,False,Auto-contact via email
+D100294,email,0.595,True,Flag for human review
+D103412,email,0.723,False,Auto-contact via email
+D103381,email,0.513,True,Flag for human review
+D103495,email,0.723,False,Auto-contact via email
+D103894,sms,0.526,True,Flag for human review
+D100071,sms,0.789,False,Auto-contact via sms
+D100859,email,0.611,False,Auto-contact via email
+D103687,email,0.513,True,Flag for human review
+D102534,email,0.538,True,Flag for human review
+D102564,sms,0.789,False,Auto-contact via sms
+D100979,email,0.513,True,Flag for human review
+D102155,email,0.513,True,Flag for human review
+D100716,sms,0.655,False,Auto-contact via sms
+D102639,email,0.611,False,Auto-contact via email
+D102710,email,0.595,True,Flag for human review
+D103643,email,0.513,True,Flag for human review
+D103651,email,0.513,True,Flag for human review
+D100848,email,0.513,True,Flag for human review
+D102526,post,0.706,False,Auto-contact via post
+D100163,sms,0.655,False,Auto-contact via sms
+D102056,post,0.564,True,Flag for human review
+D102058,email,0.513,True,Flag for human review
+D102064,email,0.697,False,Auto-contact via email
+D101010,email,0.697,False,Auto-contact via email
+D103573,email,0.611,False,Auto-contact via email
+D101138,email,0.405,True,Flag for human review
+D103821,email,0.611,False,Auto-contact via email
+D101148,email,0.723,False,Auto-contact via email
+D101800,email,0.697,False,Auto-contact via email
+D101183,email,0.611,False,Auto-contact via email
+D101213,email,0.611,False,Auto-contact via email
+D101784,sms,0.789,False,Auto-contact via sms
+D101211,email,0.513,True,Flag for human review
+D103319,email,0.513,True,Flag for human review
+D103286,email,0.824,False,Auto-contact via email
+D100437,email,0.513,True,Flag for human review
+D100046,email,0.723,False,Auto-contact via email
+D101272,email,0.723,False,Auto-contact via email
+D101575,email,0.606,False,Auto-contact via email
+D101235,email,0.405,True,Flag for human review
+D101542,email,0.723,False,Auto-contact via email
+D100318,email,0.513,True,Flag for human review
+D100002,email,0.723,False,Auto-contact via email
+D103989,post,0.564,True,Flag for human review
+D101112,email,0.8,False,Auto-contact via email
+D101875,email,0.814,False,Auto-contact via email
+D103537,email,0.513,True,Flag for human review
+D103803,email,0.611,False,Auto-contact via email
+D102850,email,0.611,False,Auto-contact via email
+D102886,email,0.513,True,Flag for human review
+D101978,email,0.513,True,Flag for human review
+D103796,email,0.611,False,Auto-contact via email
+D101815,email,0.405,True,Flag for human review
+D101850,email,0.697,False,Auto-contact via email
+D100514,email,0.611,False,Auto-contact via email
+D103067,email,0.611,False,Auto-contact via email
+D102204,email,0.513,True,Flag for human review
+D102281,email,0.723,False,Auto-contact via email
+D102205,email,0.723,False,Auto-contact via email
+D100949,email,0.871,False,Auto-contact via email
+D102719,email,0.968,False,Auto-contact via email
+D100743,email,0.513,True,Flag for human review
+D100659,email,0.513,True,Flag for human review
+D100976,email,0.513,True,Flag for human review
+D100834,sms,0.526,True,Flag for human review
+D102524,post,0.564,True,Flag for human review
+D102495,email,0.723,False,Auto-contact via email
+D102462,email,0.513,True,Flag for human review
+D102520,email,0.595,True,Flag for human review
+D101409,email,0.513,True,Flag for human review
+D102841,email,0.953,False,Auto-contact via email
+D102884,email,0.611,False,Auto-contact via email
+D101972,email,0.513,True,Flag for human review
+D103608,email,0.723,False,Auto-contact via email
+D102078,email,0.611,False,Auto-contact via email
+D102902,email,0.513,True,Flag for human review
+D100421,sms,0.526,True,Flag for human review
+D103464,email,0.611,False,Auto-contact via email
+D101563,email,0.809,False,Auto-contact via email
+D101545,email,1.0,False,Auto-contact via email
+D103240,email,0.697,False,Auto-contact via email
+D103269,sms,0.526,True,Flag for human review
+D100438,email,0.723,False,Auto-contact via email
+D101773,post,0.706,False,Auto-contact via post
+D101524,email,0.611,False,Auto-contact via email
+D101410,email,0.723,False,Auto-contact via email
+D103899,email,0.611,False,Auto-contact via email
+D103429,email,0.75,False,Auto-contact via email
+D101227,email,0.723,False,Auto-contact via email
+D100007,email,0.723,False,Auto-contact via email
+D101803,email,0.723,False,Auto-contact via email
+D101173,email,0.723,False,Auto-contact via email
+D101749,sms,0.773,False,Auto-contact via sms
+D100284,email,0.513,True,Flag for human review
+D100278,email,0.513,True,Flag for human review
+D102938,email,0.959,False,Auto-contact via email
+D101965,sms,0.667,False,Auto-contact via sms
+D101853,email,0.513,True,Flag for human review
+D103090,sms,0.526,True,Flag for human review
+D100493,email,0.723,False,Auto-contact via email
+D101913,email,0.8,False,Auto-contact via email
+D102141,email,0.611,False,Auto-contact via email
+D102065,post,0.706,False,Auto-contact via post
+D102060,email,0.723,False,Auto-contact via email
+D103159,email,0.723,False,Auto-contact via email
+D103036,email,0.513,True,Flag for human review
+D101953,post,0.706,False,Auto-contact via post
+D100638,email,0.611,False,Auto-contact via email
+D102822,email,0.405,True,Flag for human review
+D101671,email,0.513,True,Flag for human review
+D101541,sms,0.789,False,Auto-contact via sms
+D101258,email,0.723,False,Auto-contact via email
+D101181,sms,0.47,True,Flag for human review
+D100450,sms,0.526,True,Flag for human review
+D103104,email,0.723,False,Auto-contact via email
+D103574,email,0.513,True,Flag for human review
+D100060,email,0.723,False,Auto-contact via email
+D101354,post,0.529,True,Flag for human review
+D103303,email,0.513,True,Flag for human review
+D103320,email,0.513,True,Flag for human review
+D103692,email,0.513,True,Flag for human review
+D100788,email,0.513,True,Flag for human review
+D102405,email,0.513,True,Flag for human review
+D100864,email,0.595,True,Flag for human review
+D102486,email,0.513,True,Flag for human review
+D101510,sms,0.655,False,Auto-contact via sms
+D101476,email,0.697,False,Auto-contact via email
+D103494,sms,0.47,True,Flag for human review
+D101456,email,0.595,True,Flag for human review
+D101486,email,0.513,True,Flag for human review
+D100728,email,0.723,False,Auto-contact via email
+D102575,email,0.513,True,Flag for human review
+D100687,post,0.515,True,Flag for human review
+D102741,email,0.723,False,Auto-contact via email
+D100197,email,0.513,True,Flag for human review
+D102592,email,0.538,True,Flag for human review
+D101318,email,0.513,True,Flag for human review
+D103389,email,0.697,False,Auto-contact via email
+D101966,email,0.8,False,Auto-contact via email
+D102907,email,0.513,True,Flag for human review
+D103759,sms,0.773,False,Auto-contact via sms
+D101075,email,0.513,True,Flag for human review
+D102018,email,0.723,False,Auto-contact via email
+D103788,email,1.0,False,Auto-contact via email
+D103050,email,0.723,False,Auto-contact via email
+D102250,email,0.8,False,Auto-contact via email
+D102232,email,0.513,True,Flag for human review
+D103725,email,0.723,False,Auto-contact via email
+D102346,email,0.697,False,Auto-contact via email
+D100757,post,0.564,True,Flag for human review
+D102550,email,0.723,False,Auto-contact via email
+D100797,email,0.723,False,Auto-contact via email
+D103909,email,0.8,False,Auto-contact via email
+D101660,sms,0.526,True,Flag for human review
+D103877,post,0.706,False,Auto-contact via post
+D101900,email,0.723,False,Auto-contact via email
+D102968,email,0.723,False,Auto-contact via email
+D103820,email,0.513,True,Flag for human review
+D100494,email,0.723,False,Auto-contact via email
+D101884,email,0.723,False,Auto-contact via email
+D100252,email,0.723,False,Auto-contact via email
+D101094,email,0.975,False,Auto-contact via email
+D100954,post,0.529,True,Flag for human review
+D102298,email,0.513,True,Flag for human review
+D103727,sms,0.655,False,Auto-contact via sms
+D102216,sms,0.526,True,Flag for human review
+D102225,email,0.595,True,Flag for human review
+D100963,sms,0.526,True,Flag for human review
+D100795,email,0.723,False,Auto-contact via email
+D103670,sms,0.655,False,Auto-contact via sms
+D103697,email,0.513,True,Flag for human review
+D103431,email,0.805,False,Auto-contact via email
+D100383,email,0.611,False,Auto-contact via email
+D103897,email,0.513,True,Flag for human review
+D101292,email,0.513,True,Flag for human review
+D101422,email,0.723,False,Auto-contact via email
+D103467,email,0.723,False,Auto-contact via email
+D102242,email,0.723,False,Auto-contact via email
+D100879,email,0.513,True,Flag for human review
+D100782,email,0.513,True,Flag for human review
+D102479,post,0.487,True,Flag for human review
+D102472,email,0.891,False,Auto-contact via email
+D100826,email,0.8,False,Auto-contact via email
+D102488,email,0.513,True,Flag for human review
+D100680,sms,0.773,False,Auto-contact via sms
+D100657,email,0.513,True,Flag for human review
+D102276,email,0.513,True,Flag for human review
+D103202,email,0.513,True,Flag for human review
+D103029,sms,0.789,False,Auto-contact via sms
+D102934,email,0.513,True,Flag for human review
+D103174,sms,0.526,True,Flag for human review
+D103529,email,0.513,True,Flag for human review
+D100586,email,0.513,True,Flag for human review
+D102858,email,0.513,True,Flag for human review
+D103606,email,0.595,True,Flag for human review
+D102120,email,0.595,True,Flag for human review
+D101072,email,0.723,False,Auto-contact via email
+D101061,email,0.611,False,Auto-contact via email
+D101886,sms,0.655,False,Auto-contact via sms
+D103581,email,0.723,False,Auto-contact via email
+D103167,email,0.723,False,Auto-contact via email
+D103235,email,0.513,True,Flag for human review
+D100266,email,0.723,False,Auto-contact via email
+D101805,post,0.414,True,Flag for human review
+D103580,email,0.723,False,Auto-contact via email
+D100393,email,0.513,True,Flag for human review
+D103846,email,0.513,True,Flag for human review
+D101713,email,0.595,True,Flag for human review
+D101277,email,0.5,True,Flag for human review
+D101225,email,0.513,True,Flag for human review
+D101641,email,0.697,False,Auto-contact via email
+D103264,email,0.741,False,Auto-contact via email
+D101698,post,0.564,True,Flag for human review
+D103225,email,0.723,False,Auto-contact via email
+D103952,post,0.504,True,Flag for human review
+D100314,email,0.513,True,Flag for human review
