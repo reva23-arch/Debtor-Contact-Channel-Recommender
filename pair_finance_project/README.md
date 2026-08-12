@@ -136,14 +136,3 @@ pair_finance_project/
 └── plots/                      # EDA + reliability diagram PNGs
 ```
 
-## 60-second pitch (for interviews)
-
-> "I built a synthetic model of a debtor population and a calibrated
-> classifier predicting per-channel contact response likelihood, with a
-> confidence threshold for flagging low-certainty cases for human review —
-> same evaluation approach I used in my anomaly detection project, just
-> applied to a different domain. The interesting bug I hit and fixed:
-> naively wiring up scikit-learn's calibration wrapper silently destroyed
-> the model's discrimination — AUROC dropped to random — because it was
-> refitting on small internal folds. Fixing it meant calibrating on a
-> proper held-out slice instead."
